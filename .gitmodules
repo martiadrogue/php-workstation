@@ -1,0 +1,3 @@
+[submodule "host/src"]
+	path = host/src
+	url = https://github.com/martiadrogue/lamp-bootstrap.git
